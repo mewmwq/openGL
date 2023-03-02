@@ -1,0 +1,1 @@
+gcc $* -L/usr/X11R6/lib -lglut -lGLU -lGL -lX11 -lm
